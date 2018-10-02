@@ -1,0 +1,17 @@
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.new_Field_URL.resources
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.new_Class_User.resources
+C:\Users\Capitole\Documents\Proyectos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.override_column_name_in_user.resources
